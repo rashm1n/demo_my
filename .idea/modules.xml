@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assetTracking.iml" filepath="$PROJECT_DIR$/assetTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assetTracking/assetTracking-common/assetTracking-common.iml" filepath="$PROJECT_DIR$/../assetTracking/assetTracking-common/assetTracking-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assetTracking/assetTracking-dataservice/assetTracking-dataservice.iml" filepath="$PROJECT_DIR$/../assetTracking/assetTracking-dataservice/assetTracking-dataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assetTracking/assetTracking-endpoint/assetTracking-endpoint.iml" filepath="$PROJECT_DIR$/../assetTracking/assetTracking-endpoint/assetTracking-endpoint.iml" />
+    </modules>
+  </component>
+</project>

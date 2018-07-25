@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="assetTracking-common" />
+        <module name="assetTracking-dataservice" />
+        <module name="assetTracking-endpoint" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assetTracking" target="1.5" />
+      <module name="assetTracking-common" target="1.5" />
+      <module name="assetTracking-dataservice" target="1.5" />
+      <module name="assetTracking-endpoint" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
